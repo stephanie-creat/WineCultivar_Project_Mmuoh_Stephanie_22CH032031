@@ -1,0 +1,6 @@
+Name: Mmuoh Stephanie
+Matric Number: 22CH032031
+Machine Learning Algorithm Used: Support Vector Machine (SVM)
+Model Persistence Method: Joblib
+Live URL: https://winecultivar-project-obisesan.onrender.com
+GitHub Repository: https://github.com/Anjola10/WineCultivar_Project_Obisesan_Anjolaoluwa_22CH032040.git
